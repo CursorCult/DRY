@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # DRY
 
 DRY: **Do Not Repeat Yourself**.
